@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: decorators
+Version: 0.1.1
+Summary: Quickly create flexible Python decorators
+Home-page: http://github.com/firstopinion/decorators
+Author: Jay Marcyes
+Author-email: jay@marcyes.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
