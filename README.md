@@ -1,6 +1,6 @@
 # NextCloudAPI
 A Next Cloud API for uploading, downloading and sending notification email.
-Only support Python3.7 or above. 
+**Only support Python3.7 or above. **
 
 This api used two external api: 
 * [NEXT-OCS-API-forPy](https://github.com/Dosugamea/NEXT-OCS-API-forPy)
